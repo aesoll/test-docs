@@ -1,4 +1,4 @@
-MoveIt Studio Documentation
+Test Documentation
 ===========================
 
 .. toctree::
